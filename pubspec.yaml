@@ -61,6 +61,13 @@ flutter:
   assets:
     - assets/images/new1.jpg
     - assets/images/new2.jpg
+    - assets/images/bag.jpg
+    - assets/images/climbing2.jpg
+    - assets/images/new5.jpg
+    - assets/images/new6.jpg
+    - assets/images/galaxy.jpg
+    - assets/images/new4.jpg
+    - assets/images/tj.jpg
     
 
   # An image asset can refer to one or more resolution-specific "variants", see
